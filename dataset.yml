@@ -1,0 +1,204 @@
+---
+intent_1:
+  - covid19?
+utter_1:
+  - COVID-19 is the disease caused by a coronavirus called
+SARS-CoV-2.  WHO first learned of this new virus on 31 December 2019,
+following a report of a cluster of cases of so-called viral pneumonia in Wuhan,
+People’s Republic of China.
+intent_2:
+  - symptoms_covid19?
+utter_2:
+  - The most common symptoms of COVID-19 arefever  chillssore throat.Other symptoms that are less common and may affect some patients include:muscle achessevere fatigue or tirednessrunny or blocked nose, or sneezingheadachesore eyesdizzinessnew and persistent coughtight chest or chest painshortness of breathhoarse voiceheavy arms/legsnumbness/tinglingnausea, vomiting, abdominal pain/ belly ache, or diarrhoeaappetite lossloss or change of sense of taste or smelldifficulty sleeping.Symptoms of severe COVID‐19 disease which need immediate medical attention include:difficulty in breathing, especially at rest, or unable to speak in sentencesconfusiondrowsiness or loss of consciousnesspersistent pain or pressure in the chestskin being cold or clammy, or turning pale or a bluish colourloss of speech or movement.If possible, call your health care provider, hotline or health facility first, so you can be directed to the right clinic.People who have pre-existing health problems are at higher risk when they have COVID-19; they should seek medical help early if worried about their condition. These include, but are not limited to: those taking immunosuppressive medication; those with chronic heart, lung, liver or rheumatological problems; those with HIV, diabetes, cancer or dementia.
+intent_3:
+  - happen_people_get_covid19?
+utter_3:
+  - As testing rates fall, it is more difficult to know how many people have COVID-19 and do not seek any treatment. At the start of the pandemic, 15% of people were thought to become seriously unwell and require hospital treatment and oxygen. More recent estimates suggest that hospitalization is required in around 3% of people with COVID-19. This is partly due to immunization, partly due to changes in the virus (especially the Omicron variants), and partly due to the availability of targeted medical treatments.Most people make a full recovery without needing hospital treatment. For those with COVID-19 who are at high risk of severe illness (see question below), WHO has made recommendations on which drug treatments are effective in improving outcomes and preventing hospital admissions. It is also important to be vigilant in recognizing people with severe disease and those needing hospital treatment so that they are treated early. The consequences of severe COVID-19 include death, respiratory failure, sepsis, thromboembolism (blood clots), and multiorgan failure, including injury of the heart, liver or kidneys.In rare situations, children can develop a severe inflammatory syndrome a few weeks after infection.
+intent_4:
+  - risk_severe_illness_covid19?
+utter_4:
+  - People aged 60 years and over, and those with underlying medical
+problems like high blood pressure, diabetes, other chronic health problems (for
+example those affecting the heart, lungs, kidneys, and brain), low immune
+function / immunosuppression (including HIV), obesity, cancer, and unvaccinated
+people are most at risk of severe illness.However, anyone at any age can get sick with COVID-19 and become
+seriously ill or die.
+intent_5:
+  - longterm_effect_covid19?
+utter_5:
+  - Some people who have had COVID-19, whether they have needed hospitalization or not, continue to experience symptoms, including fatigue, respiratory and neurological symptoms. These long-term effects are called post COVID-19 condition (also called long COVID). For further information on long COVID, see post COVID-19 condition and questions and answers.
+intent_6:
+  - protect_others_dont_know_infected?
+utter_6:
+  - You can protect yourself and others from COVID-19 by following preventive measures, such as keeping a distance, wearing a mask in crowded and poorly ventilated spaces, practicing hand hygiene, respiratory etiquette (covering your mouth and nose with a bent elbow or a tissue when you cough or sneeze), getting vaccinated and staying up to date with booster doses.   Check local advice where you live and work. Read our public advice page for more information.
+intent_7:
+  - get_test_covid19?
+utter_7:
+  - Anyone with symptoms such as acute onset of fever and cough should be tested, wherever possible, to ensure that they receive appropriate clinical care. People who do not have symptoms but have had close contact with someone who is, or may be, infected may also consider testing. Contact your local health guidelines and follow their guidance.  While a person is waiting for test results, they should preferably wear a mask when interacting with others in or outside of their household or sharing space with others. Where testing capacity is limited, tests should first be done for those at higher risk of infection, such as health workers, and those at higher risk of severe illness such as older people, especially those living in seniors’ residences or long-term care facilities.Individuals with signs and symptoms suggestive of COVID-19 or those who test positive for the virus should wear a mask when interacting with others in or outside of one’s household or sharing space with others.
+intent_8:
+  - test_get_see_covid19?
+utter_8:
+  - There are two main types of tests that can confirm whether you
+are infected with SARS-CoV-2, the virus that causes COVID-19. Molecular tests,
+such as polymerase chain reaction (PCR), are the most accurate tests for
+diagnosing SARS-CoV-2 infection. Molecular tests detect virus in the sample by
+amplifying viral genetic material to detectable levels. Rapid antigen tests
+(sometimes known as rapid diagnostic tests or RDTs) detect viral proteins
+(known as antigens). RDTs are a simpler and faster option than molecular tests
+and are available for testing by trained operators or by the individual
+themselves (sometimes called self-tests). They perform best when there is more
+virus circulating in the community and when sampled from an individual during
+the time they are most infectious, generally within the first 5–7 days
+following symptom onset. Samples for both types of tests are collected from the
+nose and/or throat with a swab.Learn more about what kind of COVID-19 tests are available Why testing for SARS-CoV-2 is importantUse of Ag-RDTsWhat you need to know about self-testing
+intent_9:
+  - want_find_covid19_past_test_could_take?
+utter_9:
+  - Antibody tests can tell us whether someone has had an infection
+in the past, even if they have not had symptoms. Also known as serological
+tests, these tests detect antibodies produced in response to an infection or
+vaccination. In most people, antibodies start to develop after days to weeks
+and can indicate if a person has had past infection or has been vaccinated.
+Antibody tests cannot be used to diagnose SARS-CoV-2 infection in the early
+stages of infection or disease but can indicate whether or not someone has had
+the disease in the past. If you have been vaccinated, many antibody tests are
+not able to distinguish between whether you were previously infected or have
+been vaccinated (or both), so in such situations you will test positive in
+either case.
+intent_10:
+  - difference_isolation_quarantine?
+utter_10:
+  - Both isolation and quarantine are methods of preventing the
+spread of COVID-19.Quarantine is used for certain persons who are a contact of someone
+infected with SARS-CoV-2, the virus that causes COVID-19, whether the infected
+person has symptoms or not. Quarantine means that you remain separated from
+others because you have been exposed to the virus and you may be infected and
+can take place in a designated facility or at home. For COVID-19, this means
+staying in the facility or at home for several days.
+Isolation is used for people with COVID-19 symptoms or who have tested
+positive for the virus. Being in isolation means being separated from other
+people, ideally in a medical facility where you can receive clinical care. If
+isolation in a medical facility is not possible and you are not in a high-risk
+group for developing severe disease, isolation can take place at home. If you
+have symptoms, you should remain in isolation for at least 10 days. If you are
+infected and do not develop symptoms, you should remain in isolation for 5 days
+from the time you test positive. You can be discharged from isolation early if
+you test negative on a rapid antigen test.
+intent_11:
+  - expose_someone_covid19?
+utter_11:
+  - If you have been exposed to someone with COVID-19, you may become infected, even if you feel well.After exposure to someone who has COVID-19, do the following:Call your healthcare provider to get tested or test yourself.Stay home if you feel unwell.Wear a mask when interacting with others in or outside of your household or sharing space with others.Clean your hands regularly.Practice respiratory etiquette: cover your mouth and nose with your bent elbow or a tissue when you cough or sneeze.Avoid crowded, enclosed or poorly ventilated spaces.Get vaccinated and stay up to date with booster doses.
+intent_12:
+  - long_take_develop_symptoms?
+utter_12:
+  - The time from exposure to COVID-19 to the moment when symptoms
+begin is, on average, 5–6 days and can range from 1–14 days. This is why people
+who have been exposed to the virus are advised to remain at home and stay away
+from others in order to prevent the spread of the virus.
+intent_13:
+  - vaccine_covid19?
+utter_13:
+  - Yes. There are several COVID-19 vaccines validated for use by WHO (given Emergency Use Listing) and from other stringent national regulatory agencies (SRAs). The first mass vaccination programme started in early December 2020 and the number of vaccination doses administered is updated on a regular basis here. For more information on vaccine for COVID-19, see the vaccine questions and answers: Coronavirus disease (COVID-19): Vaccines (who.int)
+intent_14:
+  - covid19_symptoms?
+utter_14:
+  - If you are unwell, stay at home.If you have any symptoms suggestive of COVID-19, wear a mask when interacting with others in or outside of your household or sharing space with others. If you have shortness of breath or pain or pressure in the chest, seek medical attention at a health facility immediately. Call your health care provider or hotline in advance for direction to the right health facility.Get tested for COVID-19, regardless of your vaccination status, and especially if you are at high-risk for severe illness and could therefore be eligible for drug treatments.Practice protective and preventive measures. Wear a mask, avoid crowded and poorly ventilated areas, improve ventilation in indoor spaces, keep a distance, practice hand hygiene, and respiratory etiquette (covering your mouth and nose with a bent elbow or a tissue when you cough or sneeze), get vaccinated and stay up to date with booster doses.
+intent_15:
+  - treatments_covid19?
+utter_15:
+  - There has been huge progress in developing treatments for patients with COVID-19. Treatments for COVID-19 should be decided on an individual basis between the person and the healthcare professional looking after them. The choice will depend on the severity of disease and the risk of disease worsening (including the person’s age and whether they have any health problems). WHO maintains a list of recommended treatments, together with the evidence for each, available at https://app.magicapp.org/#/guideline/nBkO1E. These currently include:for non-severe COVID-19: nirmatrelvir-ritonavir; molnupiravir; remdesivirfor severe COVID-19: corticosteroids (including dexamethasone); IL-6 receptor blockers (tocilizumab or sarilumab); baricitinib; remdesivir.Apart from these medications, amongst the most commonly and globally used, and important treatments is oxygen for severely ill patients. WHO leads work which aims to improve global capacity and access to oxygen production, distribution and supply to patients.For corticosteroids, further specific information can be found in the Corticosteroids, including dexamethasone questions and answers.
+intent_16:
+  - antibiotics_effective_prevent_treat_covid19?
+utter_16:
+  - Antibiotics do not work against viruses; they only work on
+bacterial infections. COVID-19 is caused by a virus, so antibiotics do not
+work. Antibiotics should not be used as a means of prevention or treatment of
+COVID-19.In hospitals, physicians will sometimes use antibiotics to treat
+secondary bacterial infections, which can be a complication of COVID-19 in
+severely ill patients. They should only be used as directed by a physician to
+treat a bacterial infection.
+intent_17:
+  - post_covid19_condition?
+utter_17:
+  - Post COVID-19 condition, also known as long COVID, refers to long-term symptoms that some people experience after they have had COVID-19. People who experience post COVID-19 condition sometimes refer to themselves as “long-haulers”. These symptoms might persist from their initial illness or develop after their recovery. They can come and go or relapse over time. The most common symptoms associated with post COVID-19 condition include fatigue, breathlessness and cognitive dysfunction (for example, confusion, forgetfulness, or a lack of mental focus or clarity). Post COVID-19 condition can affect a person’s ability to perform daily activities such as work or household chores.
+intent_18:
+  - soon_get_covid19_someone_diagnose_post_covid19_condition?
+utter_18:
+  - Post COVID-19 condition is usually diagnosed by a healthcare provider at least 3 months after a patient falls ill with COVID-19. This 3-month period allows healthcare providers to rule out the usual recovery period from an acute illness. Sometimes this recovery period can be long, especially if someone is very sick.Symptoms should last for at least 2 months from when someone first falls ill for it to be considered as post COVID-19 condition. Symptoms of post COVID-19 condition can persist from the initial illness or begin after recovery. The symptoms and effects of post COVID-19 condition can only be explained when other conditions with similar symptoms as post COVID-19 condition have been ruled out through a medical diagnosis. Symptoms may also change over time.
+intent_19:
+  - common_symptoms_post_covid19_condition_long_covid?
+utter_19:
+  - Symptoms differ between people, and between adults and children.  Overall, the most common symptoms of post COVID-19 condition include:fatigueshortness of breath or difficulty breathingmemory, concentration or sleep problemspersistent coughchest paintrouble speakingmuscle achesloss of smell or tastedepression or anxietyfever.People with post COVID-19 condition, also known as long COVID, may have difficulty functioning in everyday life. Their condition may affect their ability to perform daily activities such as work or household chores.
+intent_20:
+  - covid19_experience_symptoms_effect_like_describe_post_covid19_condition?
+utter_20:
+  - If you have ongoing symptoms after COVID-19, seek help from your healthcare provider. They will help you to determine the cause and provide you with the care you need to manage your symptoms. At present, there are no proven drug treatments for post COVID-19 condition. This is an area of active research. However, some commonly available medications can alleviate symptoms. There are data suggesting that holistic care can help patients regain their physical, cognitive and emotional function and help to improve their quality of life.
+intent_21:
+  - risk_develop_post_covid19_condition?
+utter_21:
+  - Anyone can develop post COVID-19 condition. Research suggests that approximately 10–20% of COVID-19 patients go on to develop prolonged symptoms that are associated with post COVID-19 condition. Current evidence doesn’t allow us to confidently know who is more likely to be affected, although certain problems (for example breathlessness) seem to be more common amongst those with more severe initial COVID-19, and more common in women.
+intent_22:
+  - confirm_case_covid19_im_still_experience_symptoms_long_would_take_could_diagnose_post_covid19_condition?
+utter_22:
+  - According to the WHO definition, symptoms should last two months or more before a diagnosis of post COVID-19 condition can be made, as we know that normal recovery can take this long. It is important that other causes for ongoing symptoms are considered. For more information, see the clinical case definition of post COVID-19 condition.
+intent_23:
+  - long_post_covid19_condition_last?
+utter_23:
+  - We cannot predict how long post COVID-19 condition will last for any given person. Most people experience improvement in their symptoms, but we know that lingering symptoms can last from weeks to months. Currently, it remains impossible to predict how long post COVID-19 condition may last for any given person.
+intent_24:
+  - protect_post_covid19_condition?
+utter_24:
+  - Taking measures to avoid COVID-19 infection is the most effective way to protect yourself against post COVID-19 condition. This includes public health and social measures that reduce your chances of getting infected. To keep you and your family safe remember to: continue to wash your hands regularly keep a distance from otherswear a mask when in a crowded, enclosed or poorly ventilated areaget vaccinated and stay up to date with booster doses practice respiratory etiquette; cough or sneeze into your bent elbow.
+intent_25:
+  - get_vaccinate_prevent_post_covid19_condition?
+utter_25:
+  - Research is ongoing. A vaccine’s ability to prevent post COVID-19 condition depends on its ability to prevent COVID-19 in the first place. The vaccines we use today are aimed at preventing severe disease and death from COVID-19. However, some people may still get infected with COVID-19 even after they are vaccinated.
+intent_26:
+  - post_covid19_condition_give_others?
+utter_26:
+  - No, post COVID-19 condition cannot be passed to others.
+intent_27:
+  - post_covid19_condition_affect_children_adolescents?
+utter_27:
+  - WHO expert group which includes patients, healthcare workers and researchers has been considering the impact of post-COVID-19 condition on children and adolescents. Findings of this report can be found here. A free webinar is available for more information: Post COVID-19 Condition: Children and Young Persons (who.int)
+Young children with COVID-19 mainly present with respiratory symptoms and are more likely to seek long-term medical care for a persistent cough. Children with post COVID-19 condition are also more likely to have fatigue, altered smell and anxiety than healthy children.
+intent_28:
+  - covid19_prescribe_corticosteroids_like_dexamethasone?
+utter_28:
+  - Corticosteroids are lifesaving medicines recommended for patients with severe or critical COVID-19*. They should be given along with other current standard of care treatments for COVID-19, which currently include oxygen and other medications.  They should not be given to patients with non-severe* COVID-19. In rare circumstances, they can be harmful to these patients’ health. *A patient has severe COVID-19 when they have signs of pneumonia, severe respiratory distress, and their blood oxygen level is low. A patient has critical COVID-19 when they need life sustaining treatment, have acute respiratory distress syndrome, or have septic shock (evidence of injury to other organs). For more information, see Guideline Clinical management of COVID-19 patients: living guideline, 23 November 2021 (magicapp.org).
+intent_29:
+  - corticosteroids_work_covid19?
+utter_29:
+  - Corticosteroids, including dexamethasone, have anti-inflammatory and immunosuppressant qualities that are used to treat a wide range of conditions. Patients with severe or critical COVID-19 develop an overstimulation of the immune system, which can be very harmful to their health. Corticosteroids reduce this overstimulation, which helps balance the immune system responses so that they are effective and do not cause damage to the person themselves.
+intent_30:
+  - benefit_corticosteroid_treatment?
+utter_30:
+  - Current evidence comes from the combined results of 8 clinical trials, utilizing data from 7000 patients with low oxygen levels, which show that dexamethasone (or other corticosteroids) reduces COVID-19 deaths. Data from these studies show that deaths are reduced by 20% when patients with severe COVID-19 are given corticosteroid treatment during their illness. There is also a benefit in reducing the need for ventilation (putting patients on a machine to help with breathing).
+intent_31:
+  - corticosteroids_administer_dosage?
+utter_31:
+  - Corticosteroids are given as a pill or via injection, depending on formulationPatients with severe or critical COVID-19 should be given low dose corticosteroids for 7-10 days. The daily dose depends on the corticosteroid being used.
+intent_32:
+  - corticosteroids_suitable_anyone_covid19?
+utter_32:
+  - WHO recommends that only patients who have severe or critical COVID-19 receive corticosteroids.
+intent_33:
+  - dexamethasone_prequalified_who?
+utter_33:
+  - Yes, WHO has prequalified dexamethasone solution for injection. It is produced by 3 manufacturers for use in treating COVID-19 illness. Prequalification means that the drug has been assessed by WHO and deemed safe and effective in treating COVID-19 illness.
+intent_34:
+  - patients_receive_corticosteroids_need_monitoring?
+utter_34:
+  - WHO recommends that all patients, even those without diabetes, should be monitored when taking corticosteroids. This is because corticosteroids can increase blood glucose (sugar) levels temporarily. High blood glucose levels caused by corticosteroids usually only require monitoring until the steroids are stopped.Certain patients should be monitored closely when receiving corticosteroids since they are at increased risk of developing complications. These include people with diabetes, cancer, open wounds following traumatic injuries, severe burns or malnourishment. Patients taking immunosuppressants/immunomodulators, those with severe immunodeficiencies and intravenous drug users should also be monitored.
+intent_35:
+  - expensive_corticosteroids?_widely_available?
+utter_35:
+  - Corticosteroids are readily available at a low cost globally. Corticosteroids are included in the WHO Model Lists of Essential Medicines. The most commonly used corticosteroid, dexamethasone is an off-patent, common supportive treatment option and is generally affordable. WHO’s 2016 and 2019 surveys of different health facilities in low- and middle-income countries indicated that dexamethasone was available to patients at a median price of US$ 0.33 per 4mg/ml injection ampoules (range: US$ 0.13–3.5).
+intent_36:
+  - typical_side_effect_corticosteroids_include_dexamethasone?
+utter_36:
+  - Corticosteroids including dexamethasone are generally safe. Their benefits far outweigh the risks, particularly in patients with severe forms of pneumonia. Higher blood glucose levels (hyperglycaemia) can occur, and patients should be monitored for this, particularly if they have diabetes. Treatments are usually short, and even at high doses, corticosteroids are not associated with other serious side effects. Prolonged use (i.e., use for more than 2 weeks) may be associated with adverse events such as glaucoma, cataract, fluid retention, hypertension, psychological effects (e.g., mood swings, memory issues, confusion or irritation), weight gain, or increased risk of infections and osteoporosis.
+intent_37:
+  - corticosteroids_use_childrenthe_elderlypregnant?
+utter_37:
+  - Yes, they can be used to treat sick children, the elderly and during pregnancy.
